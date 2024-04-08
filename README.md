@@ -1,2 +1,2 @@
 # DmitryMosin2001.github.io
-визиточка
+Сайт визитка HTML, CSS
